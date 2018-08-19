@@ -3,4 +3,4 @@
 //jade:
 //morgan:
 //mysql:
-//nodemon:
+//nodemon -D:

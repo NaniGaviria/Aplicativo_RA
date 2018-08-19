@@ -1,0 +1,3 @@
+#Ignora la caperta de los modulos instalados con npm
+/node_modules
+/package-lock.json
